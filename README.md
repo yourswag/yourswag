@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yourswag
+- 👋 Hi, I’m @swagata
 - 👀 I’m interested in open source development
 - 🌱 I’m currently learning php and mern {full stack development}
 - 💞️ I’m looking to collaborate on ...
